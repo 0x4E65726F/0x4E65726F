@@ -5,5 +5,5 @@
 - 👀 My Discord: Nero#7903
 - 🔭 I’m currently studying in Mount San Antonio College
 - 🌱 I’m currently learning Algorithms, Data Structures, Unity.
+- 💞️ I’m looking to collaborate on web service and game projects.
 - 💬 Respect everyone with unique skills and motivation!
-- ⚡ Working on my blog and will show the link soon!
