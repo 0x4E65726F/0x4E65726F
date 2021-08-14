@@ -6,4 +6,4 @@
 - 🔭 I’m currently studying in Mount San Antonio College
 - 🌱 I’m currently learning Algorithms, Data Structures, Unity.
 - 💬 Respect everyone with unique skills and motivation!
-- ⚡ Currently working on my blog and will show the link soon!
+- ⚡ Working on my blog and will show the link soon!
