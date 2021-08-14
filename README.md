@@ -1,0 +1,8 @@
+- 👋 Hi, I'm Nero Li.
+- 🤔 @qq1109680304 is just a magical string that I can remember.
+- 😄 Pronouns: He/Him/His
+- 📫 How to reach me: 1109680304lym@gmail.com
+- 🔭 I’m currently studying in Mount San Antonio College
+- 🌱 I’m currently learning Algorithms, Data Structures, Unity.
+- 💬 Respect everyone with unique skills and motivation!
+- ⚡ Currently working on my blog and will show the link soon!
