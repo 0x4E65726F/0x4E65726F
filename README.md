@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him/His
 - 📫 Email: 1109680304lym@gmail.com
 - 👀 Discord: Nero#7903
-- 🔭 I’m currently studying in Mount San Antonio College
+- 🔭 I’m currently studying at Mount San Antonio College
 - 🌱 I’m currently learning HTML/CSS, Python, Data Structures, Algorithms.
-- 💞️ I’m looking to collaborate on cyber security, web service, and game projects.
+- 💞️ I’m looking to collaborate on cybersecurity, web service, and game projects.
 - 💬 Respect everyone with unique skills and motivation!
