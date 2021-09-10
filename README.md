@@ -5,5 +5,5 @@
 - 👀 Discord: Nero#7903
 - 🔭 I’m currently studying at Mount San Antonio College
 - 🌱 I’m currently learning HTML/CSS, Python, Data Structures, Algorithms.
-- 💞️ I’m looking to collaborate on cybersecurity, web service, and game projects.
+- 💞️ I’m looking to collaborate on cybersecurity, web service, and IoT projects.
 - 💬 Respect everyone with unique skills and motivation!
