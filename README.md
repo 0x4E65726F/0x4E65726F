@@ -1,7 +1,9 @@
 - Hi, I'm Yimin Li, and you can call me Nero.
 - Pronouns: He/Him/His
 - Email: yimil31@uci.edu
-- I’m currently studying at University of California, Irvine, major in Computer Science.
-- I’m currently learning HTML/CSS, Python, Data Structures, Algorithms.
+- I’m currently studying at the University of California - Irvine
+- My major is in Computer Science, and my minor is in Statistics.
+- I’m researching Algorithms, Artificial Intelligence, and education in Computer Science.
 - I’m looking to collaborate on cybersecurity and competitive programming.
-- I'm looking for Work-study and Internship right now!
+- I'm looking for a full-time internship right now!
+- Fun Fact: my username is Nero's ASCII in Hex.
